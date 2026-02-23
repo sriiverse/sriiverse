@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I have major skills on Python, SQL, MYSQL, POSTRESQL, MONGODB, Javascript, Typescript, Django, React, HTML5, CSS3, and a kernel source enthusiast. <br>I am also multiple hackathon winners, plus an eager enthusiast who efficiently turns ideas into codes. 
+I have major skills on Python, SQL, MYSQL, POSTRESQL, MONGODB, Javascript, Typescript, Django, React, HTML5, CSS3, and a kernel source enthusiast. <br> Multiple hackathon winners, And an eager enthusiast who efficiently turns ideas into codes. 
 
 
 ## 🌐 Socials:
